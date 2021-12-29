@@ -33,10 +33,9 @@ int main()
             }
             if (input != i)
             {
-                if (input % i == 0)
-                {
+                
                     printf("%d is not a prime number", input);
-                }
+                
             }
             else
             {
